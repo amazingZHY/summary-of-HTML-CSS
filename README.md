@@ -1,2 +1,2 @@
 # summary-of-HTML-CSS
-summary-of-HTML&amp;CSS
+some notes for study
